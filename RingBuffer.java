@@ -1,14 +1,3 @@
-/*******************************************************************************
- *
- *  This is a template file for RingBuffer.java. It lists the constructors
- *  and methods you need to implement, along with descriptions of what they're
- *  supposed to do.
- *
- *  Note: it won't compile until you fill in the constructors and methods
- *        (or at least commment out the ones whose return type is non-void).
- *
- ******************************************************************************/
-
 public class RingBuffer {
 
     private double[] rb;          // items in the buffer
