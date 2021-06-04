@@ -5,7 +5,3 @@ Simulates the sound of a guitar being plucked using the [Karplus–Strong algori
 **RingBuffer.java** implements the ring buffer data type used in **GuitarString.java** to model the vibrations of a guitar string.
 
 **GuitarHero.java** is an interactive `GuitarString` client that plays guitar notes and chords in real-time based on user input. It relies on a helper class `Keyboard.java` (not included in this repo) that provides a GUI to play notes using the computer keyboard.
-
---
-
-*This assignment was completed as part of COS 126 at Princeton University in Spring 2020.*
